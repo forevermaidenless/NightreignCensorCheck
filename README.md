@@ -1,6 +1,8 @@
-DarkSouls3CensorCheck
+NightreignCensorCheck
 =====================
 
-A simple html/javascript tool to check if your name will be censored in Dark Souls 3
+An updated fork of:
 
 http://omgftw.github.io/DarkSouls3CensorCheck/
+
+for Elden Ring Nightreign. All credit for the original goes to omgftw
